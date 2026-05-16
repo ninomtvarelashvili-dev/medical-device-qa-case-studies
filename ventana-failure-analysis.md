@@ -8,6 +8,18 @@ During 2024-2025, I observed production failures in automated immunohistochemist
 
 ---
 
+## Table of Contents
+
+1. [Executive Summary](#executive-summary)
+2. [System Architecture & Context](#system-architecture--context)
+3. [Observed Failure Modes](#observed-failure-modes)
+4. [Test Cases](#test-cases-that-would-have-detectedprevented-these-failures)
+5. [Recommendations](#recommendations)
+6. [Lessons for QA Professionals](#lessons-for-software-testing-professionals)
+7. [Conclusion](#conclusion)
+
+---
+
 ## System Architecture & Context
 
 ### Operational Environment
